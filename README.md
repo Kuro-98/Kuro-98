@@ -1,5 +1,5 @@
 # 💫 About Me:
-✅ I am currently working as a software developer<br> ✅ I’m currently learning web development<br>✅I really enjoy web development <br>✅ I really enjoy working with technologies that use JavaScript.<br>
+✅ I am currently working as a software developer<br> ✅ I’m currently learning web development<br>✅I really enjoy web development and working with technologies that use JavaScript.<br>
 
 
 ## 🌐 Socials:
