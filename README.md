@@ -12,10 +12,15 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuro-98&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kuro-98&theme=radical&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuro-98&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuro-98&theme=radical&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
+<br>
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
