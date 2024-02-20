@@ -7,12 +7,12 @@
 
 - 📫 How to reach me **emanuellmoraless98@gmail.com**
 
+- ⚡ I really enjoy web development and working with **technologies that use JavaScript.**
+
 ## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/emanuelmoralesar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/emanuelmoralesar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emanuelmoralesar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/emanuelmoralesar" height="30" width="40" /></a>
 </p>
-
-- ⚡ I really enjoy web development and working with **technologies that use JavaScript.**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuro-98&show_icons=true&locale=en&layout=compact" alt="kuro-98" /></p>
 
